@@ -1,0 +1,24 @@
+body{
+    /* direção */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;   
+    flex-direction: column;
+    
+    /* apetrechos */
+    margin-top: 5%;
+    background-color: aliceblue;
+
+}
+
+.bd{
+    border: 1px solid black;
+    margin: 0%;
+}
+
+main{
+    border: 1px solid black;
+    padding: 1%;
+    background-color: khaki;
+}
