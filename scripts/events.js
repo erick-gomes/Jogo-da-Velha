@@ -23,7 +23,7 @@ let Dic =
     7: {mark: false}, //7
     8: {mark: false}  //8 =========== row 3
 }
-const url = 'http://localhost/'
+const url = '../'
 let Jogador = []
 
 //funcionalidades
