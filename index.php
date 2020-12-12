@@ -14,7 +14,7 @@
     </header>
     <main>
         
-        <form action="velha/" method="post">
+        <form action="game/" method="post">
             <div class="form-check">
                 <input class="form-check-input" type="radio" 
                 name="mode" id="exampleRadios1" value="easy" checked>
