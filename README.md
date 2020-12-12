@@ -18,7 +18,7 @@ $ apt install php-apache
 
 
 # Execute o script de configuração
-$ bash termux-install.sh
+$ cd Jogo-da-Velha && bash termux-install.sh
 
 
 # Execute o apache
