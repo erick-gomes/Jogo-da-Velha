@@ -25,6 +25,8 @@ $ cd Jogo-da-Velha && bash termux-install.sh
 $ apachectl start
 
 # Por fim, vá até o navegador e coloque localhost:8080 como url
+# Opcional: Edite o events.js e altere a const url para o localhost com a porta a ser usada pelo apache
+
 
 ```
 <h3>Features ✅</h3>
