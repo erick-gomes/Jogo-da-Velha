@@ -6,12 +6,25 @@
     <img src="https://img.shields.io/static/v1?label=PHP&message=v7.2.19&color=7159c1&style=for-the-badge&logo=php"/>
 </div>
 
-### Requisitos: 
+### Requisitos no Termux: 
 
 ```bash
 # Clone este repositório
 $ git clone https://github.com/brlouco/Jogo-da-Velha
 
+
+# Instale o pacote php-apache
+$ apt install php-apache
+
+
+# Execute o script de configuração
+$ cd Jogo-da-Velha && bash termux-install.sh
+
+
+# Execute o apache
+$ apachectl start
+
+# Por fim, vá até o navegador e coloque localhost:8080 como url
 
 ```
 <h3>Features ✅</h3>
