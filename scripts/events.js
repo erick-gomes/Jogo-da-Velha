@@ -1,3 +1,5 @@
+const url = '../'
+
 let query = location.search.slice(1);
 let partes = query.split('&');
 let data = {};
@@ -23,7 +25,7 @@ let Dic =
     7: {mark: false}, //7
     8: {mark: false}  //8 =========== row 3
 }
-const url = '../'
+
 let Jogador = []
 
 //funcionalidades
