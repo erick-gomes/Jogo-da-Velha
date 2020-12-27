@@ -61,4 +61,4 @@ $ sudo apache2 start
 <h3>Features ✅</h3>
 
 - [x] Bot fácil
-- [ ] Bot difícil
+- [x] Bot difícil
