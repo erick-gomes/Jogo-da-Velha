@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h4>Escolha um modo de jogo</h4>
+        <?php echo "<h4>Escolha um modo de jogo</h4>" ?>
     </header>
     <main>
         
