@@ -1,0 +1,24 @@
+{
+  "name": "jogo-da-velha",
+  "version": "1.0.0",
+  "description": "um jogo divertido para brincar com seus amigos",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erick-gomes/Jogo-da-Velha.git"
+  },
+  "author": "Erick Gomes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erick-gomes/Jogo-da-Velha/issues"
+  },
+  "homepage": "https://github.com/erick-gomes/Jogo-da-Velha#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
