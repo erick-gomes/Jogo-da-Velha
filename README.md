@@ -21,7 +21,7 @@ $ npm install
 # Inicie o servidor
 $ node index.js
 
-# Por fim, vá até o navegador e coloque localhost como url
+# Por fim, vá até o navegador e coloque localhost:3000 como url
 ```
 
 <h3>Features ✅</h3>
