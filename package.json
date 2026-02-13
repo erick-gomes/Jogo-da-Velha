@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/erick-gomes/Jogo-da-Velha#readme",
   "dependencies": {
-    "express": "^4.21.2",
+    "express": "^4.22.1",
     "nodemon": "^3.1.9"
   }
 }
